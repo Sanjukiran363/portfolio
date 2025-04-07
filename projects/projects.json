@@ -1,0 +1,47 @@
+[
+
+    {
+        "name": "Flipkart Clone",
+        "desc": "Developed a fully responsive Flipkart-inspired e-commerce clone with modern UI/UX, featuring seamless navigation and product management",
+        "image": "Flipkart",
+        "links": {
+            "view": "https://sanjukiran363.github.io/Flipkart/"
+        }
+    },
+    {
+        "name": "Matrymony",
+        "desc": "Created a feature-rich matrimony website with advanced user profiles, search filters, and secure matchmaking capabilities",
+        "image": "Shaadi",
+        "links": {
+            "view": "https://sanjukiran363.github.io/Shaadi.com/"
+        }
+    },
+
+    {
+        "name": "Quizz",
+        "desc": "Dynamic quiz app built with JavaScript featuring interactive UI for engaging user experience and learning",
+        "image": "Quizz",
+        "links": {
+            "view": "https://sanjukiran363.github.io/Quizz/"
+        }
+    },
+    {
+        "name": "PetShop",
+        "desc": "Built a dynamic pet shop website with integrated product listings, pet adoption services, and an easy-to-use shopping experience",
+        "image": "PetShop",
+        "links": {
+            "view": "https://sanjukiran363.github.io/PetShop/"
+        }
+    },
+    {
+        "name": "Food-Site",
+        "desc": "Cloned a responsive food website replicating modern UI/UX design, showcasing delicious menu sections, attractive visuals, and smooth navigation for a real-time food browsing experience.",
+        "image": "Food-Site",
+        "links": {
+            "view": "https://sanjukiran363.github.io/Food-Site/"
+        }
+    }
+    
+
+
+]
